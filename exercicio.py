@@ -20,3 +20,14 @@ pessoa1.set_nome('Guilherme')
 pessoa1.set_idade(21)
 pessoa1.set_altura(1.80)
 pessoa1.imprimir()
+
+#Crie um programa em que calcule o valor de juros pago em uma compra parcelada. 
+# O usuário deve informar o preço do produto a vista, o valor de cada parcela e a quantidade 
+# de parcelas. No final, o programa deve mostrar uma mensagem do tipo (sendo o total parcelado e o 
+# valor de juros calculados pelo programa):  
+#Preço a vista: R$ 100,00  
+#Valor da parcela: R$ 25,00  
+#Qtd parcelas: 5  
+#Total parcelado: R$ 125,00  
+#Valor de Juros: R$ 25,00 
+
